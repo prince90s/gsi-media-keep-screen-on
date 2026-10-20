@@ -1,0 +1,6 @@
+id=media_keep_screen_on
+name=Media Keep Screen On
+version=1.0
+versionCode=1
+author=WorkBuddy
+description=When any app holds the SCREEN_BRIGHT wake lock (video playback with keep-screen-on), the screen stays on. Otherwise the normal auto-lock timeout applies. Users can change the normal timeout in system settings and it will be respected.
